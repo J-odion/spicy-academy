@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import { NavigationMenus } from "@/components/parts/Menus";
 import Headers from "@/components/parts/Headers";
 import { SPGCarousel } from "@/components/parts/Carousel";
-import { Youtube } from "lucide-react";
 import { FaYoutube } from "react-icons/fa";
 
 const inter = Inter({ subsets: ["latin"] });
